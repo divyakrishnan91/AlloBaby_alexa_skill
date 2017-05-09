@@ -1,0 +1,27 @@
+{
+  "name": "allo_baby_skill",
+  "version": "1.0.0",
+  "description": "This is the file where the skill is present",
+  "main": "index.js",
+  "scripts": {
+    "test": "AlloBaby how is my baby doing today"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyakrishnan91/AlloBaby_alexa_skill.git"
+  },
+  "keywords": [
+    "symptoms",
+    "allobaby"
+  ],
+  "author": "Divya Krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyakrishnan91/AlloBaby_alexa_skill/issues"
+  },
+  "homepage": "https://github.com/divyakrishnan91/AlloBaby_alexa_skill#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.0"
+  },
+  "devDependencies": {}
+}
